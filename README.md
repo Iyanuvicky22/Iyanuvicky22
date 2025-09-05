@@ -38,7 +38,7 @@
 - 🔄 [**victor-etl-pipeline**](https://github.com/Iyanuvicky22/victor-etl-pipeline) – Automated ETL with IMDb API, Pandas & SQLAlchemy  
 - ⚡ [**data_processing_comparison**](https://github.com/Iyanuvicky22/data_processing_comparison) – Benchmarking **Polars vs Pandas** with a FastAPI service  
 - 🐳 [**bikesharing_etl_docker_container**](https://github.com/Iyanuvicky22/bikesharing_etl_docker_container) - Dockerized ETL pipelines with CI/CD deployment  
-- ☁️ **(Exploring)**: AWS scripts (EC2/S3 automation using Bash & PowerShell)  
+- ☁️ [**data_epic_capstone**](https://github.com/Iyanuvicky22/Projects/tree/main/data_epic_capstone) AI agents directory (EC2/S3 automation using Bash, PowerShell & github actions)  
 
 ### 🔹 Data Science & Analytics
 - 🛒 [**ecommerce_database_analytics**](https://github.com/Iyanuvicky22/ecommerce_database_analytics) – Sales data modeling & dashboard-ready insights  
@@ -50,16 +50,17 @@
 ## 📊 GitHub Stats
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iyanuvicky22&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyanuvicky22&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyanuvicky22&layout=compact&theme=tokyonight) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iyanuvicky22&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Iyanuvicky22&color=blueviolet)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/arowosegbe-victor-566533b2/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arowosegbe-victor-566533b2/) 
 [![Twitter/X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/iyanuvicky)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyanuvicky@gmail.com)
 
 ---
 
