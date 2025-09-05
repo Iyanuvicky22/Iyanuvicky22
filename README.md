@@ -37,13 +37,13 @@
 ### 🔹 Automation & Cloud
 - 🔄 [**victor-etl-pipeline**](https://github.com/Iyanuvicky22/victor-etl-pipeline) – Automated ETL with IMDb API, Pandas & SQLAlchemy  
 - ⚡ [**data_processing_comparison**](https://github.com/Iyanuvicky22/data_processing_comparison) – Benchmarking **Polars vs Pandas** with a FastAPI service  
-- 🐳 **(Coming Soon)**: Dockerized ETL pipelines with CI/CD deployment  
+- 🐳 [**bikesharing_etl_docker_container**](https://github.com/Iyanuvicky22/bikesharing_etl_docker_container) - Dockerized ETL pipelines with CI/CD deployment  
 - ☁️ **(Exploring)**: AWS scripts (EC2/S3 automation using Bash & PowerShell)  
 
 ### 🔹 Data Science & Analytics
 - 🛒 [**ecommerce_database_analytics**](https://github.com/Iyanuvicky22/ecommerce_database_analytics) – Sales data modeling & dashboard-ready insights  
 - 🏦 [**bank_statement_parser**](https://github.com/Iyanuvicky22/bank_statement_parser) – OCR-based financial transaction parsing  
-- 📓 [**365-Data-Science-Projects**](https://github.com/Iyanuvicky22/365-Data-Science-Projects) – Year-long data science explorations in Jupyter  
+- 📓 [**Projects**](https://github.com/Iyanuvicky22/Projects) – Collection of completed data science and data engineering projects
 
 ---
 
@@ -57,8 +57,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURPROFILE)  
-[![Twitter/X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/iyanuvicky)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/arowosegbe-victor-566533b2/))  
+[![Twitter/X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/iyanuvicky)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
